@@ -3,20 +3,38 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    border: 1px solid black;
 }
 body {
-    background-color: rgb(119, 107, 40);
+    background-color: rgb(22, 22, 18);
     margin: 20px 10px;
 }
 .title {
     padding: 15px;
     margin-bottom: 15px;
-    background-color: rgb(5, 82, 82);
+    background-color: rgb(100, 228, 228);
     text-align: center;
-    border: 10px rgb(201, 183, 183) solid;
+    border: 10px rgb(102, 16, 16) solid;
 
 }
 .links {
+    margin: 0 auto;
+    margin-bottom: 20px;
+    padding: 15px;
+    width: fit-content;
+    
 
+}
+.links li {
+    display: inline-block;
+    width: auto;
+    padding: 10px;
+    background-color: rgb(150, 13, 13);
+    border: 10px rgb(189, 9, 39) solid;
+}
+
+a {
+    color: rgb(179, 255, 0);
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
 }
