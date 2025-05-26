@@ -3,11 +3,18 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    border: 1px solid black;
 }
 body {
-    background-color: rgb(245, 128, 74);
+    background-color: rgb(119, 107, 40);
+    margin: 20px 10px;
 }
 .title {
+    padding: 15px;
+    margin-bottom: 15px;
+    background-color: rgb(5, 82, 82);
+    text-align: center;
+    border: 10px rgb(201, 183, 183) solid;
 
 }
 .links {
