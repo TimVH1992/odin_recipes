@@ -1,0 +1,15 @@
+/*Main page styling*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(245, 128, 74);
+}
+.title {
+
+}
+.links {
+
+}
