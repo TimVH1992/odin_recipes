@@ -1,0 +1,39 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    background: whitesmoke;
+}
+nav {
+    text-align: right;
+    padding: 20px;
+}
+a:hover {
+    background-color: aqua;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.main-content{
+    margin: 20px 0;
+    padding: 20px;
+    background-color: brown;
+}
+.instructions {
+    display: block;
+    background-color: yellow;
+    padding: 20px;
+    height: 200px;
+}
+.block {
+    display: inline-block;
+}
+.left{
+    margin-left: 20px;
+}
+.right {
+    float: right;
+}
