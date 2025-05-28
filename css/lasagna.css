@@ -3,4 +3,27 @@
     padding: 0px;
     box-sizing: border-box;
 }
+nav {
+    text-align: right;
+    padding: 20px;
 
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
+.main-content {
+    background-color: #af5555;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
+.block{
+    background-color: green;
+}
+.left {
+
+}
+.right{
+
+}
