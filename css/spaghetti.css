@@ -23,7 +23,6 @@ img {
     background-color: brown;
 }
 .instructions {
-    display: block;
     background-color: yellow;
     padding: 20px;
     height: 200px;
