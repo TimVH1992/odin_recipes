@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: whitesmoke;
+}
+nav {
+    text-align: right;
+    padding: 20px;
+}
+nav a:hover {
+    background-color: aqua ;
+}
+img {
+    display: block;
+    height: 300px;
+    width: auto;
+    margin: 0 auto;
+}
+.main-content {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: brown;
+}
+.instructions{
+    display: block;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: yellow;
+}
+.box{
+    display: inline-block;
+    height: 150px;
+}
+.right{
+    float: right;
+}
